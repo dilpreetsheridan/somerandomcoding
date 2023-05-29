@@ -29,6 +29,7 @@ public class PrintStudentDetails {
     list[0] = s1;
     list[2] = s2;
     list[3] = s3;
+        list
     
     for(int i=0; i<list.length;i++)
     {
